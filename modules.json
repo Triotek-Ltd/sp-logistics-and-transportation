@@ -1,0 +1,142 @@
+[
+  {
+    "module_code": "sp4_11",
+    "module_label": "SP4.11 - Carrier Performance",
+    "module_title": "Carrier Performance",
+    "module_slug": "carrier_performance",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_6",
+    "module_label": "SP4.6 - Cold Chain Monitoring",
+    "module_title": "Cold Chain Monitoring",
+    "module_slug": "cold_chain_monitoring",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_5",
+    "module_label": "SP4.5 - Cross Docking",
+    "module_title": "Cross Docking",
+    "module_slug": "cross_docking",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_8",
+    "module_label": "SP4.8 - Customs Documentation",
+    "module_title": "Customs Documentation",
+    "module_slug": "customs_documentation",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_12",
+    "module_label": "SP4.12 - Dispatch Control",
+    "module_title": "Dispatch Control",
+    "module_slug": "dispatch_control",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_1",
+    "module_label": "SP4.1 - Fleet Management",
+    "module_title": "Fleet Management",
+    "module_slug": "fleet_management",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_7",
+    "module_label": "SP4.7 - Freight Costing",
+    "module_title": "Freight Costing",
+    "module_slug": "freight_costing",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_10",
+    "module_label": "SP4.10 - Fuel Tracking",
+    "module_title": "Fuel Tracking",
+    "module_slug": "fuel_tracking",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_14",
+    "module_label": "SP4.14 - Hub Network Optimization",
+    "module_title": "Hub Network Optimization",
+    "module_slug": "hub_network_optimization",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_9",
+    "module_label": "SP4.9 - Last Mile Delivery",
+    "module_title": "Last Mile Delivery",
+    "module_slug": "last_mile_delivery",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_13",
+    "module_label": "SP4.13 - Reverse Logistics",
+    "module_title": "Reverse Logistics",
+    "module_slug": "reverse_logistics",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_2",
+    "module_label": "SP4.2 - Route Optimization",
+    "module_title": "Route Optimization",
+    "module_slug": "route_optimization",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_3",
+    "module_label": "SP4.3 - Shipment Tracking",
+    "module_title": "Shipment Tracking",
+    "module_slug": "shipment_tracking",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  },
+  {
+    "module_code": "sp4_4",
+    "module_label": "SP4.4 - Warehouse Management (WMS)",
+    "module_title": "Warehouse Management (WMS)",
+    "module_slug": "warehouse_management_wms",
+    "app_code": "sp4",
+    "app_label": "SP4 - Logistics & Transportation",
+    "bundle_code": "sp",
+    "source_md_path": "doc/rnd/plugs/sp/sp4/sp4.1.md"
+  }
+]
